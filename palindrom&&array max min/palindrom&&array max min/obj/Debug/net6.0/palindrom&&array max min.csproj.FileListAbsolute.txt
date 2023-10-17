@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\bin\Debug\net6.0\palindrom&&array max min.exe
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\bin\Debug\net6.0\palindrom&&array max min.deps.json
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\bin\Debug\net6.0\palindrom&&array max min.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\bin\Debug\net6.0\palindrom&&array max min.dll
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\bin\Debug\net6.0\palindrom&&array max min.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.dll
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\refint\palindrom&&array max min.dll
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\palindrom&&array max min.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\Rusif\palindrom&&array max min\palindrom&&array max min\obj\Debug\net6.0\ref\palindrom&&array max min.dll

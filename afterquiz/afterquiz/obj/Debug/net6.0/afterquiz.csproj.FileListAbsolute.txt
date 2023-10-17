@@ -1,0 +1,28 @@
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.exe
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.deps.json
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\refint\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\Rusif\afterquiz\afterquiz\obj\Debug\net6.0\ref\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.exe
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\bin\Debug\net6.0\afterquiz.pdb
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\refint\afterquiz.dll
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.pdb
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\afterquiz.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\afterquiz\afterquiz\obj\Debug\net6.0\ref\afterquiz.dll

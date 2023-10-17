@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\bin\Debug\net6.0\RusifLoops.exe
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\bin\Debug\net6.0\RusifLoops.deps.json
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\bin\Debug\net6.0\RusifLoops.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\bin\Debug\net6.0\RusifLoops.dll
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\bin\Debug\net6.0\RusifLoops.pdb
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.dll
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\refint\RusifLoops.dll
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.pdb
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\RusifLoops.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\RusifLoops\RusifLoops\obj\Debug\net6.0\ref\RusifLoops.dll

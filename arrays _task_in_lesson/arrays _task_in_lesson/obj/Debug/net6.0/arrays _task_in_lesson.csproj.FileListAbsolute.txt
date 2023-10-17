@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\bin\Debug\net6.0\arrays _task_in_lesson.exe
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\bin\Debug\net6.0\arrays _task_in_lesson.deps.json
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\bin\Debug\net6.0\arrays _task_in_lesson.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\bin\Debug\net6.0\arrays _task_in_lesson.dll
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\bin\Debug\net6.0\arrays _task_in_lesson.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.dll
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\refint\arrays _task_in_lesson.dll
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\arrays _task_in_lesson.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\Rusif\arrays _task_in_lesson\arrays _task_in_lesson\obj\Debug\net6.0\ref\arrays _task_in_lesson.dll

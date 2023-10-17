@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\bin\Debug\net6.0\praktika_arrays.exe
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\bin\Debug\net6.0\praktika_arrays.deps.json
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\bin\Debug\net6.0\praktika_arrays.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\bin\Debug\net6.0\praktika_arrays.dll
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\bin\Debug\net6.0\praktika_arrays.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.dll
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\refint\praktika_arrays.dll
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.pdb
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\praktika_arrays.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\Rusif\praktika_arrays\praktika_arrays\obj\Debug\net6.0\ref\praktika_arrays.dll
