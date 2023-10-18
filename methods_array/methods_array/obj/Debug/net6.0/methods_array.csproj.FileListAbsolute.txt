@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\bin\Debug\net6.0\methods_array.exe
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\bin\Debug\net6.0\methods_array.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\bin\Debug\net6.0\methods_array.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\bin\Debug\net6.0\methods_array.dll
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\bin\Debug\net6.0\methods_array.pdb
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.dll
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\refint\methods_array.dll
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.pdb
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\methods_array.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\methods_array\methods_array\obj\Debug\net6.0\ref\methods_array.dll
