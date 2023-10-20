@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\bin\Debug\net6.0\inheritance_practice.exe
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\bin\Debug\net6.0\inheritance_practice.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\bin\Debug\net6.0\inheritance_practice.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\bin\Debug\net6.0\inheritance_practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\bin\Debug\net6.0\inheritance_practice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\refint\inheritance_practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\inheritance_practice.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\inheritance_practice\inheritance_practice\obj\Debug\net6.0\ref\inheritance_practice.dll
