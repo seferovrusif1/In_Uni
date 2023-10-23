@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\bin\Debug\net6.0\Accesmodifierpractice.exe
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\bin\Debug\net6.0\Accesmodifierpractice.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\bin\Debug\net6.0\Accesmodifierpractice.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\bin\Debug\net6.0\Accesmodifierpractice.dll
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\bin\Debug\net6.0\Accesmodifierpractice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.dll
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\refint\Accesmodifierpractice.dll
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\Accesmodifierpractice.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Accesmodifierpractice\Accesmodifierpractice\obj\Debug\net6.0\ref\Accesmodifierpractice.dll

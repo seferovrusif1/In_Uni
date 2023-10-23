@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\bin\Debug\net6.0\accesmodifiererr.exe
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\bin\Debug\net6.0\accesmodifiererr.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\bin\Debug\net6.0\accesmodifiererr.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\bin\Debug\net6.0\accesmodifiererr.dll
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\bin\Debug\net6.0\accesmodifiererr.pdb
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.dll
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\refint\accesmodifiererr.dll
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.pdb
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\accesmodifiererr.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\accesmodifiererr\accesmodifiererr\obj\Debug\net6.0\ref\accesmodifiererr.dll
