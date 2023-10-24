@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\bin\Debug\net6.0\ClassAccesModifier.exe
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\bin\Debug\net6.0\ClassAccesModifier.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\bin\Debug\net6.0\ClassAccesModifier.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\bin\Debug\net6.0\ClassAccesModifier.dll
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\bin\Debug\net6.0\ClassAccesModifier.pdb
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.dll
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\refint\ClassAccesModifier.dll
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.pdb
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ClassAccesModifier.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\ClassAccesModifier\ClassAccesModifier\obj\Debug\net6.0\ref\ClassAccesModifier.dll
