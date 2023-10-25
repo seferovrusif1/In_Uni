@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\bin\Debug\net6.0\Comon.exe
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\bin\Debug\net6.0\Comon.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\bin\Debug\net6.0\Comon.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\bin\Debug\net6.0\Comon.dll
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\bin\Debug\net6.0\Comon.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.dll
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\refint\Comon.dll
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\Comon.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Comon\Comon\obj\Debug\net6.0\ref\Comon.dll
