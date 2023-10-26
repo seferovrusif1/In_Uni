@@ -1,0 +1,4 @@
+C:\Users\Birinci novbe\Desktop\New folder\Tuple_init_record\Tuple_init_record\obj\Debug\net6.0\Tuple_init_record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Tuple_init_record\Tuple_init_record\obj\Debug\net6.0\Tuple_init_record.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Tuple_init_record\Tuple_init_record\obj\Debug\net6.0\Tuple_init_record.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Tuple_init_record\Tuple_init_record\obj\Debug\net6.0\Tuple_init_record.csproj.CoreCompileInputs.cache
