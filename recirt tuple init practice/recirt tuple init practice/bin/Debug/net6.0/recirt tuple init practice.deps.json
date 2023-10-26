@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "recirt tuple init practice/1.0.0": {
+        "runtime": {
+          "recirt tuple init practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "recirt tuple init practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

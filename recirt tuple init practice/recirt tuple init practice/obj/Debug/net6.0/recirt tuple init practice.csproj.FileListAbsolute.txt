@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\bin\Debug\net6.0\recirt tuple init practice.exe
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\bin\Debug\net6.0\recirt tuple init practice.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\bin\Debug\net6.0\recirt tuple init practice.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\bin\Debug\net6.0\recirt tuple init practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\bin\Debug\net6.0\recirt tuple init practice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\refint\recirt tuple init practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\recirt tuple init practice.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\recirt tuple init practice\recirt tuple init practice\obj\Debug\net6.0\ref\recirt tuple init practice.dll

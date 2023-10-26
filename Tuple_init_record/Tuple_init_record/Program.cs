@@ -15,7 +15,7 @@ namespace Tuple_init_record
                 SurName = "sd",
                 Age = 2,
                 Group = a840,
-                Result = {}
+                
             };
             Lesson l = new Lesson {Name= "a"};
             Result res = new Result { Lesson = l ,Grade=5};

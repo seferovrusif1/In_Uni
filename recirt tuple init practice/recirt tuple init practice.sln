@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recirt tuple init practice", "recirt tuple init practice\recirt tuple init practice.csproj", "{F60E5F80-E0CA-408E-A236-6EFBE8E3833D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60E5F80-E0CA-408E-A236-6EFBE8E3833D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60E5F80-E0CA-408E-A236-6EFBE8E3833D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60E5F80-E0CA-408E-A236-6EFBE8E3833D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60E5F80-E0CA-408E-A236-6EFBE8E3833D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9661905-797F-4B26-A917-E6842ABC5F55}
+	EndGlobalSection
+EndGlobal
