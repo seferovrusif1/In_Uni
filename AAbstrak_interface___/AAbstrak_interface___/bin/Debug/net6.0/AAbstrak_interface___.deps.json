@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AAbstrak_interface___/1.0.0": {
+        "runtime": {
+          "AAbstrak_interface___.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AAbstrak_interface___/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

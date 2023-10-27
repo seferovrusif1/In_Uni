@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\bin\Debug\net6.0\AAbstrak_interface___.exe
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\bin\Debug\net6.0\AAbstrak_interface___.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\bin\Debug\net6.0\AAbstrak_interface___.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\bin\Debug\net6.0\AAbstrak_interface___.dll
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\bin\Debug\net6.0\AAbstrak_interface___.pdb
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.dll
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\refint\AAbstrak_interface___.dll
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.pdb
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\AAbstrak_interface___.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\AAbstrak_interface___\AAbstrak_interface___\obj\Debug\net6.0\ref\AAbstrak_interface___.dll

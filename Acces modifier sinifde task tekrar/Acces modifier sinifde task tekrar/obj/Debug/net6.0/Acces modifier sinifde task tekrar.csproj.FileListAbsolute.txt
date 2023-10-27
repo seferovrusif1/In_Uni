@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\bin\Debug\net6.0\Acces modifier sinifde task tekrar.exe
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\bin\Debug\net6.0\Acces modifier sinifde task tekrar.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\bin\Debug\net6.0\Acces modifier sinifde task tekrar.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\bin\Debug\net6.0\Acces modifier sinifde task tekrar.dll
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\bin\Debug\net6.0\Acces modifier sinifde task tekrar.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.dll
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\refint\Acces modifier sinifde task tekrar.dll
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\Acces modifier sinifde task tekrar.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Acces modifier sinifde task tekrar\Acces modifier sinifde task tekrar\obj\Debug\net6.0\ref\Acces modifier sinifde task tekrar.dll

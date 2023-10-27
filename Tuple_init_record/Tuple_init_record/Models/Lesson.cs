@@ -8,45 +8,39 @@ namespace Tuple_init_record.Models
 {
     internal class Lesson
     {
+        private string[] _nameList=new string[0];
         public string Name { get; set; }
-        _nameList
-        public string[] NameList { get; set; }
+        public string[] NameList { get => _nameList; set { _nameList = NameList; } }
 
 
-        public void Add(params int[] number)
+        public void Add(params string[] number)
         {
             foreach (var item in number)
             {
-                Array.Resize(ref arr, arr.Length + 1);
-                arr[arr.Length - 1] = item;
+                Array.Resize(ref _nameList, NameList.Length + 1);
+                NameList[NameList.Length - 1] = item;
             }
 
         }
 
-
-
-
-
-
-
-        public void Add(int number)
+        public void Add(string number)
         {
-            Array.Resize(ref arr, arr.Length + 1);
-            arr[arr.Length - 1] = number;
+            Array.Resize(ref _nameList, _nameList.Length + 1);
+            _nameList[_nameList.Length - 1] = number;
 
         }
         public void Get(int index)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < _nameList.Length; i++)
             {
                 if (i == index)
                 {
-                    Console.WriteLine(arr[i]);
+                    Console.WriteLine(_nameList[i]);
 
                 }
             }
         }
-        public int[] GetAll()
+        public string[] GetAll()
         {
             return NameList;
         }

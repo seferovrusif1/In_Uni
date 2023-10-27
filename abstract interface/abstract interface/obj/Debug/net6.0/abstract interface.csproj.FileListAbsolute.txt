@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\bin\Debug\net6.0\abstract interface.exe
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\bin\Debug\net6.0\abstract interface.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\bin\Debug\net6.0\abstract interface.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\bin\Debug\net6.0\abstract interface.dll
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\bin\Debug\net6.0\abstract interface.pdb
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.dll
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\refint\abstract interface.dll
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.pdb
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\abstract interface.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\abstract interface\abstract interface\obj\Debug\net6.0\ref\abstract interface.dll
