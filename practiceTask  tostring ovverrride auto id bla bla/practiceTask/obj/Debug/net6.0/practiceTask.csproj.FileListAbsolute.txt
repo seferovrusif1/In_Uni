@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\bin\Debug\net6.0\practiceTask.exe
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\bin\Debug\net6.0\practiceTask.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\bin\Debug\net6.0\practiceTask.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\bin\Debug\net6.0\practiceTask.dll
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\bin\Debug\net6.0\practiceTask.pdb
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.dll
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\refint\practiceTask.dll
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.pdb
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\practiceTask.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\practiceTask\practiceTask\obj\Debug\net6.0\ref\practiceTask.dll
