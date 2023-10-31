@@ -13,9 +13,16 @@ namespace practiceTask.Models
 
         public override void Sell()
         {
+            if (Count > 0)
+            {
             Count--;
             TotalInCome+=Price;
-            Console.WriteLine(TotalInCome);
+            Console.WriteLine("satildi!");
+            }
+            else
+            {
+                Console.WriteLine("Bitmisdir!");
+            }
         }
 
         public override void ShowInfo()
@@ -52,6 +59,6 @@ namespace practiceTask.Models
 
 
 
-     
+
     }
 }

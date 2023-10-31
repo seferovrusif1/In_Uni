@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask\\practiceTask\\practiceTask.csproj": {}
+    "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask  tostring ovverrride auto id bla bla\\practiceTask\\practiceTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask\\practiceTask\\practiceTask.csproj": {
+    "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask  tostring ovverrride auto id bla bla\\practiceTask\\practiceTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask\\practiceTask\\practiceTask.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask  tostring ovverrride auto id bla bla\\practiceTask\\practiceTask.csproj",
         "projectName": "practiceTask",
-        "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask\\practiceTask\\practiceTask.csproj",
+        "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask  tostring ovverrride auto id bla bla\\practiceTask\\practiceTask.csproj",
         "packagesPath": "C:\\Users\\Birinci novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask\\practiceTask\\obj\\",
+        "outputPath": "C:\\Users\\Birinci novbe\\Desktop\\New folder\\practiceTask  tostring ovverrride auto id bla bla\\practiceTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\bin\Debug\net6.0\extension.exe
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\bin\Debug\net6.0\extension.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\bin\Debug\net6.0\extension.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\bin\Debug\net6.0\extension.dll
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\bin\Debug\net6.0\extension.pdb
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.dll
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\refint\extension.dll
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.pdb
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\extension.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\extension\extension\obj\Debug\net6.0\ref\extension.dll

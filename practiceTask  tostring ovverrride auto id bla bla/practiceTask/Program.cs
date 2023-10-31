@@ -16,6 +16,7 @@ namespace practiceTask
                 PageCount = 11,
                 Price = 11,
                 Count = 5
+                
             };
             Book kitabb = new Book()
             {

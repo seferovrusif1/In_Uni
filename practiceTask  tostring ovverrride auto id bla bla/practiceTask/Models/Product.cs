@@ -23,9 +23,5 @@ namespace practiceTask.Models
             _id++;
             Id = _id;
         }
-        
-            
-        
-
-}
+    }
 }
