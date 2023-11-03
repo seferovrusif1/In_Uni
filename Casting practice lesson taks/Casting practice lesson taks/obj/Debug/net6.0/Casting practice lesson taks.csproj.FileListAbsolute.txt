@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\bin\Debug\net6.0\Casting practice lesson taks.exe
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\bin\Debug\net6.0\Casting practice lesson taks.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\bin\Debug\net6.0\Casting practice lesson taks.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\bin\Debug\net6.0\Casting practice lesson taks.dll
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\bin\Debug\net6.0\Casting practice lesson taks.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.dll
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\refint\Casting practice lesson taks.dll
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\Casting practice lesson taks.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Casting practice lesson taks\Casting practice lesson taks\obj\Debug\net6.0\ref\Casting practice lesson taks.dll

@@ -8,17 +8,14 @@ namespace ExceptionTask.Models
 {
     internal class User1
     {
-        private int _id=0;
-        private string _name;
-        private static int _age;
-        static void ChangeAge(int age) 
+        private int _id { get; set; } = 0;
+        private string _name { get; set; } = "";
+        private static int _age { get; set; } = 0;
+        public static void ChangeAge(int age)
         {
-            
+            _age = age;
         }
 
-        internal bool GetValues(User1 s)
-        {
-            throw new NotImplementedException();
-        }
+
     }
 }

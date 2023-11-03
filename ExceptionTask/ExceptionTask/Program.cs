@@ -4,15 +4,28 @@
     using System.Text.RegularExpressions;
 
 
-    User1 s = new User1();
+User1 s = new User1();
+var props = typeof(User1).GetProperties(BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.Static);
+foreach (var item in props)
+{
+    Console.WriteLine(item);
+}
+props[0].SetValue(s, 12);
+props[1].SetValue(s, "Rusif");
+props[2].SetValue(s, 20);
+foreach (var item in props)
+{
+    Console.WriteLine(item.GetValue(s));
+}
 
-    var t = s.GetType().GetField("_id", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-    Console.WriteLine(t.GetValue(s));
+User1.ChangeAge(2);
+Console.WriteLine("\nmethod ile deyisdikden sonra age:\n" + props[2].GetValue(s));
+var method = typeof(User1).GetMethod("ChangeAge", BindingFlags.NonPublic | BindingFlags.Static);
+method.Invoke(obj: null, parameters: new object[] { (int)4 });
+//method.Invoke(null, new object[] { (int)4 });
+Console.WriteLine(props[2].GetValue(s));
 
-    t.SetValue(s, 6);
-    Console.WriteLine(t.GetValue(s));
-
-    while (true)
+while (true)
     {
         User user = new User();
     l1:
