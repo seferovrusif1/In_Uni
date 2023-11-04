@@ -1,0 +1,113 @@
+﻿using List_practice.Model;
+
+namespace List_practice
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+           //  = new Employe();
+            string name;
+            string surname;
+            byte age;
+            decimal salary;
+            Gender gender=Gender.other;
+            string position;
+            Company co = new Company();
+            
+                bool iscontunie = true;
+                while (iscontunie)
+                {
+                    Console.WriteLine("1. Create employe:\n2. Get employee details by id\n3. Get all employees\n4.Update employee details id\n5.Delete employee records by id\n6.Quit");
+                    string a = Console.ReadLine();
+                    switch (a)
+                    {
+                        case "1":
+                       
+                            Console.WriteLine("Enter name:"); name = Console.ReadLine();
+                            Console.WriteLine("Enter surname:"); surname = Console.ReadLine();
+                            Console.WriteLine("Enter age:"); age = Convert.ToByte(Console.ReadLine());
+                            Console.WriteLine("Enter salary:"); salary = Convert.ToDecimal(Console.ReadLine());
+                            Console.WriteLine("Enter gender(1. Male\n2. FeMale\n3. other):");
+                        bool x = true;
+                        while (x)
+                        {
+                            gender = (Gender)(Convert.ToInt32(Console.ReadLine()));
+                            if (gender == Gender.Male || gender == Gender.FeMale || gender ==Gender.other)
+                            {
+                                x = false;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Gender is not correct:");
+
+                            }
+                        }
+
+                            Console.WriteLine("Enter Position:"); position = Console.ReadLine();
+                            Employe add = new Employe(name, surname, age, salary, gender, position);
+                            co.AddEmployee(add);
+                            break;
+                        case "2":
+                        try
+                        {
+                            Console.WriteLine("Write Employee Id:");
+                            
+                            Console.WriteLine(co.GetEmployeeById(Convert.ToInt32(Console.ReadLine())));
+
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }   
+                        break;
+                        case "3":
+                        try
+                        {
+                            co.GetAllEmployees();
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                        break;
+                        case "4":
+                        try
+                        {
+                            Console.WriteLine("Write Employee Id:");
+
+                            int i = Convert.ToInt32(Console.ReadLine());
+                            co.GetEmployeeById(i);
+                            co.UpdateEmployee(i);
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                        break;
+                        case "5":
+                        try
+                        {
+                            Console.WriteLine("Write Employee Id:");
+                            co.RemoveEmployee(Convert.ToInt32(Console.ReadLine()));
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                        break;
+                        case "6":
+                            iscontunie = false;
+                            break;
+                        default:
+                            Console.WriteLine("Wrong input!!");
+                            break;
+
+                    }
+                }
+            }
+         
+        }
+    
+}

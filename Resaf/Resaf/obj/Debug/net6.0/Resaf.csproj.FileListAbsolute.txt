@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\bin\Debug\net6.0\Resaf.exe
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\bin\Debug\net6.0\Resaf.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\bin\Debug\net6.0\Resaf.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\bin\Debug\net6.0\Resaf.dll
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\bin\Debug\net6.0\Resaf.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.dll
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\refint\Resaf.dll
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\Resaf.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Resaf\Resaf\obj\Debug\net6.0\ref\Resaf.dll

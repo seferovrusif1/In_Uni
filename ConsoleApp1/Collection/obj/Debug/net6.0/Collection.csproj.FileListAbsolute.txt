@@ -1,0 +1,4 @@
+C:\Users\Birinci novbe\Desktop\New folder\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\bin\Debug\net6.0\List practice.exe
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\bin\Debug\net6.0\List practice.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\bin\Debug\net6.0\List practice.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\bin\Debug\net6.0\List practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\bin\Debug\net6.0\List practice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\refint\List practice.dll
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.pdb
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\List practice.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\List practice\List practice\obj\Debug\net6.0\ref\List practice.dll

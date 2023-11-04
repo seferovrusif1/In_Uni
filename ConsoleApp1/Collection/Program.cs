@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
             IntList a = new IntList();
-
-            a.Add(3);
+            Console.WriteLine("sdfckjhbsdfjhn");
+            int b = Convert.ToInt32(Console.ReadLine());
+            a.Add(b);
             a.Add(1, 2, 3);
             a.Get(1);
             Console.WriteLine(a.GetAll());
