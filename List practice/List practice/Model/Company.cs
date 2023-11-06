@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace List_practice.Model
 {
+  //  delegate void Print(Person p);
+
     internal class Company
     {
         public string Name { get; set; }
@@ -17,19 +19,19 @@ namespace List_practice.Model
         {
             Employees.Add(employee);
         }
-        public Employe GetEmployeeById(int id)
+        public Employe GetEmployeeById(int id)///////////////////////
         {
-            foreach (var item in Employees)
+            Employe? emp = Employees.Find(emp => emp.Id == id);
+            if ( emp== null) 
             {
-                    if (item.Id == id)
-                    {
-                        return item;
-                    }
+                throw new Exceptions("User not Found!");
             }
-            throw new Exception("User not Found!");
-
-            
+            else
+            {
+                return emp;
+            }
         }
+
         
 
 
@@ -74,17 +76,24 @@ namespace List_practice.Model
         }
         public void UpdatePosition(int id)
         {
-            Console.WriteLine("Position daxil edin");
-            this.GetEmployeeById(id).Position = Console.ReadLine();
+            Console.WriteLine("Enter position(\n1.  Developer,\n2. teacher\n3. worker):");
+            this.GetEmployeeById(id).Position = (Position)(Convert.ToInt32(Console.ReadLine()));
+
         }
 
-        public void GetAllEmployees()
+        public void GetAllEmployees()///////////////////
         {
-            foreach (var item in Employees)
-            {
-                Console.WriteLine(item);
+            Employees.ForEach(x => Console.WriteLine(x));
+            //var result = Employees.Select(p => p);
+            //foreach (var person in result)
+            //{
+            //    Console.WriteLine(person);
+            //}
+            //foreach (var item in Employees)
+            //{
+            //    Console.WriteLine(item);
 
-            }
+            //}
         }
 
         public void RemoveEmployee(int id)

@@ -9,10 +9,10 @@ namespace List_practice.Model
     internal class Employe:Person
     {
         public decimal Salary { get; set; }
-        public string Position { get; set; }
+        public Position Position { get; set; }
         public Gender Gender { get; set; }
 
-        public Employe(string name,string surname,byte age, decimal salary,Gender gender,string position )
+        public Employe(string name,string surname,byte age, decimal salary,Gender gender, Position position )
         {
             Name = name;
             SurName = surname;

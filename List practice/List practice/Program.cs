@@ -13,7 +13,7 @@ namespace List_practice
             byte age;
             decimal salary;
             Gender gender=Gender.other;
-            string position;
+            Position position=Position.worker;
             Company co = new Company();
             
                 bool iscontunie = true;
@@ -44,9 +44,22 @@ namespace List_practice
 
                             }
                         }
+                        Console.WriteLine("Enter position(\n1.  Developer,\n2. teacher\n3. worker):");
+                        x = true;
+                        while (x)
+                        {
+                            position = (Position)(Convert.ToInt32(Console.ReadLine()));
+                            if (position == Position.Developer || position == Position.teacher || position == Position.worker)
+                            {
+                                x = false;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Position is not correct:");
 
-                            Console.WriteLine("Enter Position:"); position = Console.ReadLine();
-                            Employe add = new Employe(name, surname, age, salary, gender, position);
+                            }
+                        }
+                            Employe add = new Employe(name, surname, age, salary, gender,position);
                             co.AddEmployee(add);
                             break;
                         case "2":
@@ -63,15 +76,8 @@ namespace List_practice
                         }   
                         break;
                         case "3":
-                        try
-                        {
                             co.GetAllEmployees();
-                        }
-                        catch (Exception e)
-                        {
-                            Console.WriteLine(e.Message);
-                        }
-                        break;
+                             break;
                         case "4":
                         try
                         {

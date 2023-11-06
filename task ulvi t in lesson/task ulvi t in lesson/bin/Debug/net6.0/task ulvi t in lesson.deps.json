@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task ulvi t in lesson/1.0.0": {
+        "runtime": {
+          "task ulvi t in lesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task ulvi t in lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

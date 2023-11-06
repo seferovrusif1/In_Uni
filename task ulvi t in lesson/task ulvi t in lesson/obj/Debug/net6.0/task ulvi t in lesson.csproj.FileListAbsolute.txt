@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\bin\Debug\net6.0\task ulvi t in lesson.exe
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\bin\Debug\net6.0\task ulvi t in lesson.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\bin\Debug\net6.0\task ulvi t in lesson.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\bin\Debug\net6.0\task ulvi t in lesson.dll
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\bin\Debug\net6.0\task ulvi t in lesson.pdb
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.dll
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\refint\task ulvi t in lesson.dll
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.pdb
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\task ulvi t in lesson.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\task ulvi t in lesson\task ulvi t in lesson\obj\Debug\net6.0\ref\task ulvi t in lesson.dll
