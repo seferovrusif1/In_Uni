@@ -8,7 +8,7 @@ namespace List_practice.Model
 {
     internal enum Position
     {
-        Developer,
+        Developer=1,
         teacher,
         worker
     }
