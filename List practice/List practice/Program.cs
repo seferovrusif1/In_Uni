@@ -14,12 +14,12 @@ namespace List_practice
             decimal salary;
             Gender gender=Gender.other;
             Position position=Position.worker;
-            Company co = new Company();
+            EmployeeService co = new EmployeeService();
             
                 bool iscontunie = true;
                 while (iscontunie)
                 {
-                    Console.WriteLine("1. Create employe:\n2. Get employee details by id\n3. Get all employees\n4.Update employee details id\n5.Delete employee records by id\n6.Quit");
+                    Console.WriteLine("1. Create employe:\n2. Get employee details by id\n3. Get all employees\n4.Update employee details id\n5.Delete employee records by id\n7.Get Employe by value\n7.Quit");
                     string a = Console.ReadLine();
                     switch (a)
                     {
@@ -59,7 +59,7 @@ namespace List_practice
 
                             }
                         }
-                            Employe add = new Employe(name, surname, age, salary, gender,position);
+                            Employe add = new Employe(name, surname, age, salary, gender,position,DateTime.Now);
                             co.AddEmployee(add);
                             break;
                         case "2":
@@ -92,7 +92,7 @@ namespace List_practice
                             Console.WriteLine(e.Message);
                         }
                         break;
-                        case "5":
+                    case "5":
                         try
                         {
                             Console.WriteLine("Write Employee Id:");
@@ -103,7 +103,18 @@ namespace List_practice
                             Console.WriteLine(e.Message);
                         }
                         break;
-                        case "6":
+                    case "6":
+                        try
+                        {
+                            Console.WriteLine("Write string:");
+                             co.GetEmployeesByValue(Console.ReadLine());
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                        break;
+                    case "7":
                             iscontunie = false;
                             break;
                         default:

@@ -6,13 +6,33 @@ using System.Threading.Tasks;
 
 namespace List_practice.Model
 {
-    internal class Exceptions : Exception
+    internal class InvalidNameException : Exception
     {
-        public Exceptions()
+        public InvalidNameException()
         {
         }
 
-        public Exceptions(string? message) : base(message)
+        public InvalidNameException(string? message) : base(message)
+        {
+        }
+    }
+    internal class InvalidSurNameException : Exception
+    {
+        public InvalidSurNameException()
+        {
+        }
+
+        public InvalidSurNameException(string? message) : base(message)
+        {
+        }
+    }
+    internal class UserNotFoundException : Exception
+    {
+        public UserNotFoundException()
+        {
+        }
+
+        public UserNotFoundException(string? message) : base(message)
         {
         }
     }

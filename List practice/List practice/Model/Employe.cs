@@ -11,15 +11,16 @@ namespace List_practice.Model
         public decimal Salary { get; set; }
         public Position Position { get; set; }
         public Gender Gender { get; set; }
-
-        public Employe(string name,string surname,byte age, decimal salary,Gender gender, Position position )
+        public DateTime CreatedAt { get; set; }
+        public Employe(string name,string surname,byte age, decimal salary,Gender gender, Position position,DateTime dateTime )
         {
             Name = name;
             SurName = surname;
             Age = age;
             Salary = salary;
             Gender = gender;
-            Position = position;   
+            Position = position;
+            CreatedAt = dateTime;
             
         }
 
