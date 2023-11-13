@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\bin\Debug\net6.0\Async non async.exe
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\bin\Debug\net6.0\Async non async.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\bin\Debug\net6.0\Async non async.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\bin\Debug\net6.0\Async non async.dll
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\bin\Debug\net6.0\Async non async.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.dll
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\refint\Async non async.dll
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\Async non async.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Async non async\Async non async\obj\Debug\net6.0\ref\Async non async.dll
