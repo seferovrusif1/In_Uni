@@ -1,0 +1,18 @@
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Filestream json.exe
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Filestream json.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Filestream json.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Filestream json.dll
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Filestream json.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.dll
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\refint\Filestream json.dll
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.pdb
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\ref\Filestream json.dll
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.csproj.AssemblyReference.cache
+C:\Users\Birinci novbe\Desktop\New folder\Filestream json\Filestream json\obj\Debug\net6.0\Filestream json.csproj.CopyComplete
