@@ -33,7 +33,7 @@ namespace Filestream_json
             HttpClient client = new HttpClient();
             
             string data = client.GetStringAsync("https://jsonplaceholder.typicode.com/posts").Result;
-            var a= JsonConvert.DeserializeObject<List<CustomObject>>(data);
+            ICollection<CustomObject> a = JsonConvert.DeserializeObject<List<CustomObject>>(data);
             
             string strData = JsonConvert.SerializeObject(a);
             StreamWriter sw = new StreamWriter(Path.Combine(Root, "Data", "jsonData.json"));
