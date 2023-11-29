@@ -1,0 +1,36 @@
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.csproj.AssemblyReference.cache
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.RazorAssemblyInfo.cache
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.RazorAssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\appsettings.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\MVC projectt.staticwebassets.runtime.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\MVC projectt.exe
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\MVC projectt.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\MVC projectt.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\MVC projectt.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\MVC projectt.pdb
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets\msbuild.MVC projectt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC projectt.props
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC projectt.props
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC projectt.props
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\scopedcss\bundle\MVC projectt.styles.css
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.csproj.CopyComplete
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\refint\MVC projectt.dll
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.pdb
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\MVC projectt.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\MVC projectt\MVC projectt\obj\Debug\net6.0\ref\MVC projectt.dll
