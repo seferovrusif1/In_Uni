@@ -4,11 +4,8 @@ using Pustok_project.Models;
 namespace Pustok_project.Contexts;
 public class PustokDbContext:DbContext
 {
+    public PustokDbContext(DbContextOptions opt) : base(opt) { }
     public DbSet<Slider> Sliders { get; set; }
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseSqlServer("Server= DESKTOP-76LNOO9\\SQLEXPRESS;Database = PustokMVCProject;Trusted_Connection=true");
-        base.OnConfiguring(optionsBuilder);
-    }
+
 
 }

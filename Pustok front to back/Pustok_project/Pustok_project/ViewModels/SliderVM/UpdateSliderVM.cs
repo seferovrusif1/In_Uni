@@ -2,7 +2,7 @@
 
 namespace Pustok_project.ViewModels.SliderVM
 {
-    public class CreateSliderVM
+    public class UpdateSliderVM
     {
         [Required]
         public string Title { get; set; }

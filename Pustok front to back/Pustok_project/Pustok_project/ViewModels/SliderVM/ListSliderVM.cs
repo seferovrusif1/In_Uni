@@ -2,20 +2,16 @@
 
 namespace Pustok_project.ViewModels.SliderVM
 {
-    public class CreateSliderVM
+    public class ListSliderVM
     {
-        [Required]
+        public int Id { get; set; }
         public string Title { get; set; }
 
-        [Required, MinLength(3), MaxLength(64)]
         public string Text { get; set; }
 
-        [Required, Range(0, float.MaxValue)]
         public float Price { get; set; }
 
-        [Required, MinLength(3), MaxLength(256)]
         public string ImageUrl { get; set; }
-        [Required]
         public bool IsLeft { get; set; }
 
 
